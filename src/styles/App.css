@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Monoton&display=swap');
+
+body {
+    background: linear-gradient(to left, rgb(37, 78, 112), rgb(142, 227, 239));
+    font-family: 'Luckiest Guy', cursive;
+}
+
+.header {
+    text-align: center;
+}
+
+#title {
+    font-family: 'Monoton', cursive;
+    font-size: 5rem;
+    color: #C33C54;
+}

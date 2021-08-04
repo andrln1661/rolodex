@@ -1,0 +1,18 @@
+.card{
+    text-align: center;
+    background: #AEF3E7;
+    border-radius: 10px;
+    transition: 0.3s;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 7px 11px 16px 0px rgba(0, 0, 0, 0.41);
+}
+
+.card:hover {
+    transform: scale(1.05);
+    transition: 0.3s;
+}
+
+img {
+    max-width: 100%;
+}
